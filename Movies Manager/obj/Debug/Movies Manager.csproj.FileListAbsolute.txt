@@ -1,0 +1,28 @@
+C:\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.exe.config
+C:\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.exe
+C:\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.pdb
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csprojAssemblyReference.cache
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.Properties.Resources.resources
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csproj.GenerateResource.cache
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csproj.CoreCompileInputs.cache
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.exe
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.pdb
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.mnuAbout.resources
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.AddMovie.resources
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.DeleteMovie.resources
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.UpdateMovie.resources
+C:\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.Main.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csprojAssemblyReference.cache
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.MnuAbout.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.AddMovie.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.DeleteMovie.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.Main.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.Properties.Resources.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies_Manager.UpdateMovie.resources
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csproj.GenerateResource.cache
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.csproj.CoreCompileInputs.cache
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.exe
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\obj\Debug\Movies Manager.pdb
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.exe.config
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.exe
+D:\@C# Projects\C# Labs\Movies Manager\Movies Manager\bin\Debug\Movies Manager.pdb
